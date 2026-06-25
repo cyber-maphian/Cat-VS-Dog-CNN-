@@ -1,4 +1,3 @@
-# Cat-VS-Dog-CNN-
 # Cat vs Dog Image Classification using Custom CNN (PyTorch)
 
 An end-to-end deep learning pipeline that classifies Cat and Dog images with state-of-the-art accuracy. Built using PyTorch leveraging CNN architecture.
